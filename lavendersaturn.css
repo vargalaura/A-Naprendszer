@@ -1,20 +1,20 @@
 h1{
     text-align: center;
-    color: mediumpurple;
+    color: rgb(0, 0, 0);
     };
 
 h3{
     text-align: left;
-    color:mediumpurple
+    color:rgb(0, 0, 0)
 }
 h2{
 text-align: left;
-color: mediumpurple;
+color: rgb(0, 0, 0);
 }
 
 h4{
-text-align: left;
-color: mediumpurple;
+text-align: center;
+color: rgb(0, 0, 0);
 }
 
 p{
@@ -23,36 +23,11 @@ margin-right: 20px;
 
 
 }
-a:link {
-    background-color:lavenderblush;
-    color: mediumpurple;
-    padding: 14px 30px;
-    text-align: center;
-    display: inline-block;
+a{
+    color:black
 }
 a:visited{
-background-color: lavender;
-color: mediumpurple;
-padding: 14px 30px;
-text-align: center;
-display: inline-block;
+color:white
+
 
 }
-#h3{
-    margin: 20px 50px;
-    padding: 15px 20px;
-
-}
-
-#h2{
-    margin:20px 15px ;
-    padding:10px 10px ;
-    border: lavenderblush 2px solid;
-}
-
-#p{
-    margin:20px 15px;
-    padding:10px 10px;
-    
-}
-
