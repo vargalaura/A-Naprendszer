@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    };
+
+h3{
+    text-align: left;
+    color:rgb(0, 0, 0)
+}
+h2{
+text-align: left;
+color: rgb(0, 0, 0);
+}
+
+h4{
+text-align: center;
+color: rgb(0, 0, 0);
+}
+
+p{
+margin-left: 8px ;
+margin-right: 8px;
+
+
+}
+a{
+    color:black
+}
+a:visited{
+color: dimgray ;
+
+
+}
+
+.menu {
+   display: inline;
+    width: 20%;
+    text-align: center;
+  }
+  
+  .menu a {
+    background-color: gray;
+    padding: 8px;
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+    color: black;
+    
+  }
+
+  .center {
+display: inline;
+    text-align: center;
+    width: 60%;
+    padding: 8px;
+  }
+
+
