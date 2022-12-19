@@ -11,3 +11,11 @@ p{
 ol.a{
 font: size 120px;
 }
+a{
+    color:black
+}
+a:visited{
+color: dimgray ;
+
+
+}
