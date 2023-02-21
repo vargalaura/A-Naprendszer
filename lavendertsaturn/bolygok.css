@@ -1,0 +1,43 @@
+h3{
+    text-align:left;
+    margin: 8px;
+    padding: 5px;
+    font-family: Times New Roman;
+}
+h4{
+margin: 10px;
+padding: 7px;
+font-family: Times New Roman;
+font-weight: bold;
+font-size: initial;
+text-decoration-line: underline;
+background-color: gray;
+border-radius: 8px;
+}
+ul{
+list-style-type: circle;
+font-family: Times New Roman;
+background-color: gray;
+padding: 20px;
+border-radius: 10px;
+}
+ul li{
+background:lightgrey;
+color: black;
+font-style: normal;
+font-family: Times New Roman;
+margin-left: 10px;
+padding: 3px;
+
+}
+
+a{
+color: black;
+margin: 20px;
+padding: 12px;
+text-align: left;
+text-decoration-line: underline;
+font-weight: bold;
+font-family: Times New Roman;
+font-size: 16px;
+}
